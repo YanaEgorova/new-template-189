@@ -11,6 +11,9 @@
     margin-bottom: 3rem;
     position: relative;
 }
+.hero .text {
+    margin-bottom: 3rem;
+}
 .hero__img {
     display: block;
     width: 100%;
